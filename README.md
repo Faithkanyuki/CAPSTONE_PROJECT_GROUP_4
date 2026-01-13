@@ -1,7 +1,8 @@
 # CAPSTONE_PROJECT_GROUP_4
 # Rush Hour Roulette: Matatu Madness
 ## Predicting Peak-Hour Transport Delays in Nairobi Using Machine Learning
-Gemini_Generated_Image_f7fp6tf7fp6tf7fp.png
+![Uploading Image.png…]()
+
 ## Project Overview
 The objective of this project is to build a supervised machine learning classification model to predict when and where overcrowding will occur at bus and matatu stops in Nairobi. By identifying these high-risk periods—driven by factors like peak hours and rainy seasons—transport operators (SACCOs) can proactively deploy additional vehicles to reduce passenger queues before they form.
 
